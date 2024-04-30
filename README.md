@@ -1,8 +1,8 @@
-# React + Vite
+# Manager FrontEnd React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app provide ability for a manager to save some user in the LocalStorage.
+when the somone try to add user, the current location of that will be saved with the other information.
 
-Currently, two official plugins are available:
+## You Can Try It By Click on Below Link.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[text](https://m-fatehi.liara.run/)
