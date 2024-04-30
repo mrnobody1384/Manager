@@ -5,4 +5,4 @@ when the somone try to add user, the current location of that will be saved with
 
 ## You Can Try It By Click on Below Link.
 
-[text](https://m-fatehi.liara.run/)
+[https://m-fatehi.ir](https://m-fatehi.liara.run/)
