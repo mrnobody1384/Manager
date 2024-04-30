@@ -1,0 +1,18 @@
+.body .content {
+  display: flex;
+  gap: 100px;
+  align-items: center;
+  margin: 10px 20px;
+}
+.body .texts,
+.labels {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
+
+.body button {
+  margin-right: 20px;
+  margin-bottom: 10px;
+}

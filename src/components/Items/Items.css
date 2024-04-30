@@ -1,0 +1,20 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.operation {
+  display: flex;
+  gap: 10px;
+  /* color: aqua; */
+}
+table td {
+  padding: 5px 15px;
+}
+td button {
+  border: none;
+  background: none;
+  cursor: pointer;
+}

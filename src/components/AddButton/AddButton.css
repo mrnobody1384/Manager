@@ -1,0 +1,56 @@
+.main-div {
+  margin: 20px 0;
+}
+
+.main-btn {
+  width: 70px;
+  height: 30px;
+  font-weight: bold;
+}
+.main-btn:hover {
+  transform: scale(1.1);
+}
+.insert-modal {
+  display: block;
+}
+.insert-modal.close {
+  display: none;
+}
+.header {
+  margin-top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.header button:hover {
+  color: red;
+  transform: scale(1.2);
+}
+
+.insert-modal .body {
+  border: 1px solid black;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.body .inputs {
+  margin-top: 10px;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+.btns {
+  margin: 20px 15px;
+}
+.btns * {
+  margin: 0 5px;
+}

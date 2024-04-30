@@ -1,0 +1,47 @@
+.main {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.main > div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.h2 {
+  margin-top: 0;
+}
+.search-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+  padding: 20px;
+}
+.input-box {
+  display: flex;
+  align-items: center;
+}
+.input-box label {
+  margin-left: 15px;
+}
+
+.search-result {
+  margin-top: 20px;
+}
+
+.search-result div {
+  width: 100%;
+}
+
+.rm-filters-btn {
+  display: none;
+}
+.rm-filters-btn.enable {
+  display: block;
+  color: red;
+}
