@@ -4,8 +4,6 @@ import { faXmark } from "@fortawesome/free-solid-svg-icons";
 import "./AddButton.css";
 import Modal from "react-modal";
 
-import useGeolocation from "react-hook-geolocation";
-
 function AddButton({ reload }) {
   const insertModalRef = useRef(null);
   const nameRef = useRef(null);
